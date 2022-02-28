@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Inknut+Antiqua:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #4b4b4b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family: 'Inknut Antiqua', serif;
+    color: #ff9001;
+    line-height: 1em;
+    font-size: 3em;
+}
+p{
+    font-family: 'Hubballi', cursive;
+    color: #c4c4c4;
+    font-size: 1em;
+}
